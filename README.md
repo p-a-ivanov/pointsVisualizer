@@ -1,4 +1,4 @@
-A small program for visualizing a huge amount of points and separating them based on their location relative to the given planes
+A small program for visualizing a huge number of points and separating them based on their location relative to the given planes
 
 1. Build the program using CMake
 
