@@ -9,4 +9,4 @@ A small program for visualizing a huge ammount of points and separating them bas
 4. When program will complete processing the given points, it will write all the "good" and "wrong" points into the outputs dirrectory. 
    It will also give you an option of running a visualization script. 
    You can run this script yourself by running the python file 
-   python 3 pointsVisualizer.py --{output file path for good points} --{output file path for bad points}
+   (python 3 pointsVisualizer.py --{output file path for good points} --{output file path for bad points})
